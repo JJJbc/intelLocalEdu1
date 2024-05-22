@@ -1,4 +1,4 @@
-
+//		조병철
 public class ArrayBasic1 {
 	public static void main(String[] args) {
 	

@@ -1,4 +1,4 @@
-
+// 		황소곱창
 public class ArrayBasic2 {
 	public static void main(String[] args) {
 	
